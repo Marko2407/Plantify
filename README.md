@@ -4,4 +4,4 @@ The humidity of the plant is measured with a device that is controlling Arduino 
 
 
 
-![alt text](https://github.com/Marko2407/Plantify/blob/master/Login&Registartion.jpg?raw=true)
+![alt text](https://github.com/Marko2407/Plantify/blob/master/Login&Registration.jpg?raw=true)
